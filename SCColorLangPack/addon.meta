@@ -1,0 +1,11 @@
+{
+	"Id" : null,
+	"Name" : "简体中文颜色汉化包",
+	"Author" : "<color=#FFC0CB><b>xiaojin</b></color>",
+	"Description" : "<color=#114514>对星云舰颜色内容进行汉化</color>",
+	"Version" : "1.0.0",
+	"Build" : 0,
+	"Dependency" : [
+	],
+	"Hidden" : False
+}
