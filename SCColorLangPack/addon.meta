@@ -1,9 +1,9 @@
 {
-	"Id" : null,
-	"Name" : "简体中文颜色汉化包",
+	"Id" : "SCColorLangPack",
+	"Name" : "SChinese Color Language Pack",
 	"Author" : "<color=#FFC0CB><b>xiaojin</b></color>",
-	"Description" : "<color=#114514>对星云舰颜色内容进行汉化</color>",
-	"Version" : "1.0.0",
+	"Description" : "对星云舰颜色内容进行汉化",
+	"Version" : "1.0.1",
 	"Build" : 0,
 	"Dependency" : [
 	],
