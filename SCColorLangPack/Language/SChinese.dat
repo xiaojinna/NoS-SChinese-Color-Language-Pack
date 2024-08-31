@@ -1619,7 +1619,7 @@
 
 # SNRColors（仅加载ColorsFromSNR插件时有效）
 
-"inventory.catalogue.snr" : "超新职业合集"
+"inventory.catalogue.snr" : "超新职业系列"
 "color.snr.pitchWhite" : "纯白"
 "color.snr.pitchRed" : "纯红"
 "color.snr.xmasRed" : "圣诞红"
