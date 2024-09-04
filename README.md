@@ -1,2 +1,24 @@
-# NoS-NoS-SChinese-Color-Language-Pack
-对星云舰颜色部分进行汉化。Localize the color section of the Nebula Ship into Chinese.
+# 关于此汉化包
+这是对星云舰的颜色内容进行汉化翻译，并添加一些自定义颜色。
+
+主要基本内容都由我一人汉化制作，难免会出现翻译错误、漏字漏词，若有翻译错误可以联系我，或者提交你的翻译。我会努力对最新版内容进行兼容。
+# 关于二创
+我对此没有任何异议，你可以修改、甚至生草，但一定要标明原作者也就是我。
+# 其他信息
+我将汉化内容拆成**3**份，这是其中之一。
+### 关于成就翻译
+成就内容含大量梗，对我来说可能有点勉勉强强，我不能完全翻译的接地气。我目前只翻译了一点点，但没有发布在这里，后续我会创建一个库方便大家一起翻译。
+
+[相关链接](https://github.com/xiaojinna/NoS-SChinese-Achievement-Language-Pack)
+### 关于基本翻译
+对游戏主要内容进行翻译。
+
+[相关链接](https://github.com/xiaojinna/NoS-SChinese-Base-Language-Pack)
+
+
+# 联系方式
+QQ：2829016733
+[B站](https://space.bilibili.com/439485056?spm_id_from=333.1007.0.0)
+
+邮箱：2829016733@qq.com
+
