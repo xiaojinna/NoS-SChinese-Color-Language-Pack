@@ -55,6 +55,15 @@
 	},
 	{
 		"MainColor" : {
+			"R" : 215,
+			"G" : 100,
+			"B" : 100
+		},
+		"TranslationKey" : "color.xiaojin.xjcolor",
+		"Category" : "xiaojin"
+	},
+	{
+		"MainColor" : {
 			"R" : 255,
 			"G" : 0,
 			"B" : 0
