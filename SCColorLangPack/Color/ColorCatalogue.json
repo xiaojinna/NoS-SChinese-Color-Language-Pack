@@ -236,6 +236,20 @@
 		},
 		"TranslationKey" : "color.xiaojin.blackwhite",
 		"Category" : "xiaojin"
+	},
+	{
+		"MainColor" : {
+			"R" : 255,
+			"G" : 241,
+			"B" : 255
+		},
+		"ShadowColor" : {
+			"R" : 255,
+			"G" : 43,
+			"B" : 128
+		},
+		"TranslationKey" : "color.xiaojin.redmys",
+		"Category" : "xiaojin"
 	}
 
 

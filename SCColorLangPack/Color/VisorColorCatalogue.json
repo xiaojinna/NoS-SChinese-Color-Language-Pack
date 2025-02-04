@@ -133,6 +133,15 @@
 		},
 		"TranslationKey" : "color.xiaojin.black",
 		"Category" : "xiaojin"
+	},
+	{
+		"MainColor" : {
+			"R" : 255,
+			"G" : 152,
+			"B" : 190
+		},
+		"TranslationKey" : "color.xiaojin.redmys",
+		"Category" : "xiaojin"
 	}
 
 ]
